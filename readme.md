@@ -11,7 +11,7 @@ Next-gen Elasticsearch driver for Laravel Scout with the power of Elasticsearch'
 Via Composer
 
 ``` bash
-composer require jeroen-g/explorer
+composer require marmark0/explorer
 ```
 
 You will need the configuration file to define your indexes:
