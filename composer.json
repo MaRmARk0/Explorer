@@ -1,5 +1,5 @@
 {
-    "name": "jeroen-g/explorer",
+    "name": "marmark0/explorer",
     "description": "Next-gen Elasticsearch driver for Laravel Scout.",
     "license": "MIT",
     "authors": [
@@ -7,6 +7,12 @@
             "name": "Jeroen",
             "email": "jeroengjeroeng@gmail.com",
             "homepage": "https://jeroeng.dev"
+        },
+        {
+            "name": "MaRmAR",
+            "email": "github@marmar.sk",
+            "homepage": "https://marmar.sk",
+            "role": "Developer"
         }
     ],
     "homepage": "https://jeroen-g.github.io/Explorer/",
@@ -14,7 +20,7 @@
     "require": {
         "php": "8.0.*||8.1.*||8.2.*||8.3.*",
         "elasticsearch/elasticsearch": "^7.16",
-        "illuminate/support": "^9.0||^10.0",
+        "illuminate/support": "^9.0||^10.0||^11.0",
         "laravel/scout": "^9.0||^10.0",
         "webmozart/assert": "^1.10",
         "psr/log": "^1|^2|^3"
